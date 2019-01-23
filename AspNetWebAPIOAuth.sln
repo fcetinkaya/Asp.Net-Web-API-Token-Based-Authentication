@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebAPIOAuth", "AspNetWebAPIOAuth\AspNetWebAPIOAuth.csproj", "{4FF34F25-CACC-43D7-A0BB-0BC08D7041DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF34F25-CACC-43D7-A0BB-0BC08D7041DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF34F25-CACC-43D7-A0BB-0BC08D7041DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF34F25-CACC-43D7-A0BB-0BC08D7041DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF34F25-CACC-43D7-A0BB-0BC08D7041DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {889DE7C8-F447-43A4-9778-C6F40E00E007}
+	EndGlobalSection
+EndGlobal
